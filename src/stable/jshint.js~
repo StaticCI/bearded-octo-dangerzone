@@ -4499,7 +4499,7 @@ var JSHINT = (function () {
 
 		//reset values
 		comma.first = true;
-debugger;
+
 		try {
 			advance();
 			switch (state.tokens.next.id) {
